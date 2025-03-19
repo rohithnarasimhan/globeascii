@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#globe-container {
+    position: relative;
+    cursor: pointer;
+}
+
+pre {
+    margin: 0;
+    white-space: pre;
+}
