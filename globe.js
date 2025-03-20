@@ -4,7 +4,7 @@ const globeContainer = document.getElementById('globe-container');
 // Constants for the globe
 const R = 3; // Radius of the globe
 const width = 200; // Terminal width
-const height = 340; // Terminal height
+const height = 300; // Terminal height
 const K1 = 80; // Scaling factor for the screen
 const aspectRatio = width / height; // Aspect ratio correction
 const chars = ".,-~:;=!*#$@"; // Characters for shading
